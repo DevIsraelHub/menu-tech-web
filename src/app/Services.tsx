@@ -32,7 +32,7 @@ const Services: React.FC = () => {
               Menu Management
             </h4>
             <p className="w-[360px]">
-              Easily update and manage your restaurant's menu with our intuitive menu management system
+              Easily update and manage your restaurant&apos;s menu with our intuitive menu management system
             </p>
           </div>
           <div className="flex flex-col items-center p-4">
@@ -63,7 +63,7 @@ const Services: React.FC = () => {
               <Icon className="w-[100px] text-[#F15A24] h-[100px]" icon='ion:bar-chart' />
             </div>
             <h4 className="text-2xl text-[#f89222] font-semibold w-[300px]">Analytics and Reporting</h4>
-            <p className="w-[360px]">Track your site’s performance with detailed analytics and reports.</p>
+            <p className="w-[360px]">Track your site&apos;s performance with detailed analytics and reports.</p>
           </div>
         </div>
 
