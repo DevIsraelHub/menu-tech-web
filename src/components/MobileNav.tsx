@@ -18,7 +18,7 @@ const MobileNav = () => {
             <SheetClose>
               <Logo />
             </SheetClose>
-            <div className="w-full flex flex-col items-start justify-left text-sm sm:text-lg">
+            <div className="w-full flex flex-col items-start justify-left text-lg md:text-xl">
               {
                 nav.map((item, index) => (
                   <SheetClose key={index} asChild className="w-full">
