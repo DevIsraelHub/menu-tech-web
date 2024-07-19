@@ -18,7 +18,7 @@ const Services: React.FC = () => {
         </h4>
 
         <div className="w-full grid grid-cols-1 gap-x-40 md:grid-cols-2 lg:grid-cols-3" data-aos="fade-right"
-          data-aos-delay="400"
+          data-aos-delay="500"
         >
           {services.map((service, index) => (
             <div key={index} className="flex flex-col items-center p-4">
