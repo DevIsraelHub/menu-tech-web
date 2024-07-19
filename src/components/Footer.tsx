@@ -64,7 +64,7 @@ const Footer: React.FC = () => {
           </ul>
         </div>
       </div>
-      <div className="w-full flex flex-col justify-center items-center px-1 xs:px-3 md:px-5 p-5 border-t">
+      <div className="w-full flex flex-col justify-center items-center px-1 xs:px-3 md:px-5 p-5 border-t border-white/30">
         <div className="flex flex-col sm:flex-row items-center justify-between w-full text-[#f2f2f2] gap-y-1 text-xs md:text-sm">
           <p>© 2024 {siteAbbreviation} All rights reserved</p>
 
