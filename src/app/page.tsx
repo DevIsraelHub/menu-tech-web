@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className="">
       <Navbar />
-      <CursorFollower />
+      {/* <CursorFollower /> */}
       <Hero />
       <Services />
       <Features />
