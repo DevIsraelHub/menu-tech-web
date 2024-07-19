@@ -19,19 +19,21 @@ const Hero: React.FC = () => {
       <div>
         <div
           data-aos="fade-right"
-          data-aos-delay="500"
+          data-aos-delay="600"
           className="absolute md:w-[80em] w-[65em] -left-[60%] max-sm:-left-[100%] top-0 sm:-left-[90%] sm:w-[70em] sm:h-full bg-[#F89222]  max-sm:w-[full] max-sm:h-full rounded-full bg-opacity-60 aspect-square lg:w-[130em] lg:h-full">
         </div>
         <div
           data-aos="fade-right"
-          data-aos-delay="600"
+          data-aos-delay="800"
           className="absolute max-lg:w-[50%] w-[65em] md:w-[70em] -left-[40%] max-sm:-left-[90%] sm:-left-[60%] sm:w-[50em] sm:h-full top-5 sm:top-0  bg-[#F89222]  max-sm:w-[full] max-sm:h-full rounded-full bg-opacity-70 aspect-square lg:w-[110em] lg:h-full">
         </div>
       </div>
       <div className="w-full md:w-[60%] sm:w-[70%] lg:w-[40%] z-10">
         <h6
           className="md:text-5xl lg:text-6xl text-4xl font-bold text-[#f2f2f2]"
-          data-aos="fade-down">Build Your Restaurant&apos;s Online Presence Effortlessly</h6>
+          data-aos="fade-down"
+          data-aos-delay="100"
+        >Build Your Restaurant&apos;s Online Presence Effortlessly</h6>
         <p
           className="text:sm md:text-md font-semibold lg:text-lg text-[#f2f2f2] pt-10 pb-6"
           data-aos="fade-down"
